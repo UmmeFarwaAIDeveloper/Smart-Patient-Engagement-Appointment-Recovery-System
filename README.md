@@ -27,46 +27,6 @@ Detects potential no-shows
 Offers instant rescheduling
 Launches recovery workflows for missed appointments
 
-Workflow Overview:
-
-Appointment Booked
-        ↓
-Confirmation Email/SMS
-        ↓
-24-Hour Reminder
-        ↓
-2-Hour Reminder
-        ↓
-Patient Confirms?
-      ↙       ↘
-    Yes        No
-     ↓          ↓
- Appointment   Reschedule Link
- Proceed       Sent Automatically
-     ↓
-Appointment Completed?
-      ↙       ↘
-    Yes        No
-     ↓          ↓
-Follow-Up      No-Show Recovery
-Completed      Workflow
-
-No-Show Recovery Workflow:
-
-
-Patient Missed Appointment
-          ↓
-Recovery SMS/Email
-          ↓
-One-Click Reschedule Link
-          ↓
-Patient Responded?
-      ↙        ↘
-    Yes         No
-     ↓           ↓
-Rebooked     Follow-Up Reminder
-                ↓
-          Staff Notification
 
 Business Benefits:
 
